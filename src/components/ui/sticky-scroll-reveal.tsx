@@ -85,4 +85,4 @@ export const StickyScroll = ({
       ></motion.div>
     </motion.div>
   );
-};
+}; 
